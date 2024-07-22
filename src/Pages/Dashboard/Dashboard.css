@@ -1,0 +1,13 @@
+ .active {
+  @apply bg-[#00000014] text-black transition-all duration-[0.3s]
+}
+ .active {
+  @apply bg-[#00000014] text-black transition-all duration-[0.3s]
+}
+.active .icons-side {
+  @apply text-black
+}
+
+.SideNav:hover .icons-side {
+  @apply text-[#5c71db]
+}
